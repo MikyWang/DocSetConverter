@@ -74,4 +74,4 @@
 8. 等待手册制作完成后，关闭终端，将unity目录下的 `Unity3D-Chinese.docset` 导入至 `Dash` 或 `Zeal` 中。
 9. 打开 `Unity3D-Chinese` 文档：
     
-    ![手册预览图](https://github.com/MikyWang/DocSetConverter/blob/main/preview.png)
+    ![手册预览图](https://raw.githubusercontent.com/MikyWang/DocSetConverter/main/preview.png)
