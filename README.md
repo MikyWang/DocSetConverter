@@ -5,6 +5,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/MikyWang/DocSetConverter)](https://github.com/MikyWang/DocSetConverter/stargazers)
 [![GitHub license](https://img.shields.io/github/license/MikyWang/DocSetConverter)](https://github.com/MikyWang/DocSetConverter/blob/main/LICENSE)
 [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-485860756-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=H0Y3-K_amuWI8dngP_3T63CB1LHgqJKe&authKey=FJqZ7cANv+KRFXRSfJPUIq/TNiOvRqA0TsUKe5aOGxUO0wlNOy0RVEnnFitJ8s58&noverify=0)
+
+## 手册预览图
+
+![手册预览图](https://github.com/MikyWang/DocSetConverter/blob/main/images/preview.png)
+
 ## 用途
 
 
@@ -72,7 +77,7 @@
     ```
     
 8. 等待手册制作完成后，关闭终端，将unity目录下的 `Unity3D-Chinese.docset` 导入至 `Dash` 或 `Zeal` 中。
-9. 打开 `Unity3D-Chinese` 文档：
+9. 打开 `Unity3D-Chinese` 文档。
     
-    ![手册预览图](https://github.com/MikyWang/DocSetConverter/blob/main/images/preview.png)
+    
     
