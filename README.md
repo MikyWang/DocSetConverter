@@ -1,2 +1,5 @@
-# DocSetConverter
-生成中文版DocSet文档，支持Dash Zeal导入使用。
+[![GitHub issues](https://img.shields.io/github/issues/MikyWang/DocSetConverter)](https://github.com/MikyWang/DocSetConverter/issues)
+[![GitHub forks](https://img.shields.io/github/forks/MikyWang/DocSetConverter)](https://github.com/MikyWang/DocSetConverter/network)
+[![GitHub stars](https://img.shields.io/github/stars/MikyWang/DocSetConverter)](https://github.com/MikyWang/DocSetConverter/stargazers)
+[![GitHub license](https://img.shields.io/github/license/MikyWang/DocSetConverter)](https://github.com/MikyWang/DocSetConverter/blob/main/LICENSE)
+[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-485860756-blue)](https://img.shields.io/badge/QQ%E7%BE%A4-485860756-blue)
