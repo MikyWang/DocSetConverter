@@ -25,7 +25,7 @@
 - [ ]  .Net6.0 API 中文手册
 - [ ]  C# Manual 中文手册
 
-## 使用方法
+## 自行制作方法
 
 
 1. 安装 `httrack` ,macos 下可使用 homebrew 进行安装：
